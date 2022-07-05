@@ -2,9 +2,9 @@ import cv2
 import numpy as np
 import face_recognition
 
-imgel=face_recognition.load_image_file('img/tom1t.png')
+imgel=face_recognition.load_image_file('ImageAtt/Rohit.jpg')
 imgel=cv2.cvtColor(imgel,cv2.COLOR_BGR2RGB)
-imgte=face_recognition.load_image_file('img/tom2.png')
+imgte=face_recognition.load_image_file('img/Rohit-Sharma-test.png')
 imgte=cv2.cvtColor(imgte,cv2.COLOR_BGR2RGB)
 
 faceloc = face_recognition.face_locations(imgel)[0]
