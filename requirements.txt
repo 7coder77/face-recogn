@@ -1,0 +1,15 @@
+click==8.1.3
+cmake==3.22.5
+colorama==0.4.5
+dlib @ file:///C:/Users/aniru/Downloads/dlib-19.22.99-cp310-cp310-win_amd64.whl
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+itsdangerous==2.1.2
+linkedlist==2.0.0
+MarkupSafe==2.1.1
+numpy==1.22.4
+opencv-python==4.6.0.66
+Pillow==9.1.1
+sql-alchemy-db==0.0.4
+SQLAlchemy==1.3.10
+Werkzeug==2.1.2
